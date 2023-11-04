@@ -4,6 +4,7 @@ input/*.xlsm
 input/*.mp3
 input/*.wav
 input/*.json
+input/ 
 
 notebook/otros/
 notebook/temp_audio_chunks/
